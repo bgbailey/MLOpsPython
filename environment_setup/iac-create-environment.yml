@@ -17,7 +17,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-- group: devop_aml_vg
+- group: devops_aml_vg
 
 
 steps:
