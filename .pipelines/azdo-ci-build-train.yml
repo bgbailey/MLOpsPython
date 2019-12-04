@@ -12,7 +12,7 @@ trigger:
 
 variables:
 - template: azdo-variables.yml
-- group: devopsforai-aml-vg
+- group: 'devops_ml_vg'
 
 
 stages:
